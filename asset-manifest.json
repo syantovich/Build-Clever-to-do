@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c4e8a250.css",
+    "main.js": "/static/js/main.52ae0ff5.js",
+    "static/media/plans.jpg": "/static/media/plans.035e122666e1a3dd11dc.jpg",
+    "static/media/Time Square.svg": "/static/media/Time Square.ef535968c0b7031a1217aa495065e7ad.svg",
+    "index.html": "/index.html",
+    "main.c4e8a250.css.map": "/static/css/main.c4e8a250.css.map",
+    "main.52ae0ff5.js.map": "/static/js/main.52ae0ff5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4e8a250.css",
+    "static/js/main.52ae0ff5.js"
+  ]
+}
